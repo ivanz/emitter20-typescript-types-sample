@@ -1,5 +1,3 @@
-import * as emitterFactory from 'emitter20';
-
 export class ExtendedEmitter implements Emitter.IEmitter
 {
     private emitter : Emitter.IEmitter;
