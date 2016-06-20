@@ -1,0 +1,11 @@
+{
+  "scripts": {
+      "start": "tsc -p . && node build/main.js"
+  },
+  "dependencies": {
+    "emitter20": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}

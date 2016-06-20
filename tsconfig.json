@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "es5",
+        "outDir": "build"
+    },
+    "compileOnSave": true,
+    "exclude": [
+        "node_modules",
+        ".git",
+        "build"
+    ]
+}
